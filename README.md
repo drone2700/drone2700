@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @drone2700
-- 👀 I’m interested in data
-- 🌱 I’m currently learning Pyspark, MongoDB and python
+- 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me cryptodrone2700@gmail.com
 
